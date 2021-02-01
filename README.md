@@ -46,7 +46,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 * cd quote-app
 
-* use the text editor you have i.e code . or atom . 
+* use the text editor you have i.e code . or atom or sublime-text. 
 
 ## Technologies Used
 
