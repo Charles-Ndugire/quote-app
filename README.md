@@ -57,7 +57,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * [Bootstrap](https://github.com/topics/bootstrap)
 
 ## Known Bugs
-
+The upvote does not balance with downvote  when you click them simultenously 
 
 ## Contact Information 
 
