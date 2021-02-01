@@ -10,6 +10,7 @@ This is agular cli application that displays quotes, allow the user to input new
 
 ## Live Page 
 
+https://quote-app.netlify.app/
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
