@@ -115,7 +115,7 @@
           },
           "configurations": {
             "production": {
-              "devServerTarget": "Quotes-app:serve:production"
+              "devServerTarget": "quote-app:serve:production"
             }
           }
         }
