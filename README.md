@@ -1,4 +1,4 @@
-# Quote-App.
+# quote-app.
 
 ## Author
 
