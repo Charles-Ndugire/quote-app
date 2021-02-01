@@ -67,7 +67,7 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "Quotes-app:build:production"
+              "browserTarget": "quote-app:build:production"
             }
           }
         },
