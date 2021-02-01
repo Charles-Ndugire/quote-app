@@ -6,7 +6,7 @@
 
 ## Description
 
-This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
+This is an angular cli application that displays quotes to allow the user to input a new quote, upvote/downvote the quote and can also delete the quote. 
 
 ## Live Page 
 
